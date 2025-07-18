@@ -2,7 +2,7 @@
 
 🎓 MSc in Data Science & Big Data Analytics, MIT-WPU  
 📍 Pune, Maharashtra  
-💼 Data Analyst | ML Enthusiast | AI Builder
+💼 Data Analyst | ML Enthusiast | AI Practitioner
 
 ---
 
@@ -27,10 +27,10 @@
 
 ## 📈 Projects
 
-### 🔹 [GEMSQL](https://github.com/tanayatipre/GEMSQL)
+### 🔹 [GEMSQL](https://github.com/tanayatipre/GEMSQL-End-To-End-Text-to-SQL-LLM-Application)
 End-to-end Text-to-SQL application using Google Gemini Pro and Streamlit. Converts natural language questions into SQL queries and retrieves insights from a real election dataset.
 
-### 🔹 [MLflow End-to-End Pipeline](https://github.com/tanayatipre/end-to-end-mlflow)
+### 🔹 [MLflow End-to-End Pipeline](https://github.com/tanayatipre/End-to-End-Machine-Learning-Project-with-MLFlow)
 A complete machine learning lifecycle project using MLflow — from data processing and training to experiment tracking and deployment in a structured pipeline.
 
 ---
@@ -41,7 +41,7 @@ A complete machine learning lifecycle project using MLflow — from data process
   <a href="https://tanayatipre.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/tanaya-tipre" target="_blank">
+  <a href="https://www.linkedin.com/in/tanaya-tipre-035a56215/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.kaggle.com/tanayatipre" target="_blank">
