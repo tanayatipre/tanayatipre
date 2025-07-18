@@ -37,9 +37,18 @@ A complete machine learning lifecycle project using MLflow — from data process
 
 ## 📫 Let's Connect
 
-- 🌐 Portfolio: [tanayatipre.github.io](https://tanayatipre.github.io)
-- 💼 LinkedIn: [linkedin.com/in/tanaya-tipre](https://linkedin.com/in/tanaya-tipre)
-- 📊 Kaggle: [kaggle.com/tanayatipre](https://www.kaggle.com/tanayatipre)
+<p align="left">
+  <a href="https://tanayatipre.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/tanaya-tipre" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/tanayatipre" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
