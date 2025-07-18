@@ -39,7 +39,7 @@ A complete machine learning lifecycle project using MLflow — from data process
 
 <p align="left">
   <a href="https://tanayatipre.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-E6E6FA?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/tanaya-tipre-035a56215/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
