@@ -30,7 +30,7 @@
 ### 🔹 [GEMSQL: Text-to-SQL LLM Application](https://github.com/tanayatipre/GEMSQL-End-To-End-Text-to-SQL-LLM-Application)
 End-to-end Text-to-SQL application using Google Gemini Pro and Streamlit. Converts natural language questions into SQL queries and retrieves insights from a real election dataset.
 
-### 🔹 [End-to-End-Air-Quality-Index-Prediction-using-MLOps](https://github.com/tanayatipre/End-to-End-Machine-Learning-Project-with-MLFlow)
+### 🔹 [End-to-End Air Quality Index Prediction using MLOps](https://github.com/tanayatipre/End-to-End-Machine-Learning-Project-with-MLFlow)
 A complete machine learning lifecycle project using MLflow — from data processing and training to experiment tracking and deployment in a structured pipeline.
 
 ---
